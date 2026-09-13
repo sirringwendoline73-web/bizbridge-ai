@@ -1,0 +1,6 @@
+{
+  "name": "BizBridge AI",
+  "description": "AI-powered customer request and business workflow assistant connecting customer needs with structured data, Google Forms, Google Sheets, and automated business actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
